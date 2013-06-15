@@ -1,6 +1,8 @@
 hackathonNorthFestival
 ======================
 
+<img src="http://placematters.net/files/places/1057829060_3969bb5728.jpg" >
+
 Project files from North Festival Hackathon
 
 # Installation Instructions #
